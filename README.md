@@ -4,22 +4,16 @@ Securedex is a fictional network security platform designed to help organization
 
 ## Documentation 
 
-- [Getting Started](Getting-Started.md)
-
-- [Installation Guide](Installation-guide.md)
-
-- [User Guide](User-guide.md)
-
-- [Troubleshooting Guide](Troubleshooting-guide.md)
+- [Getting Started](getting-started.md)
+- [Installation Guide](installation-guide.md)
+- [User Guide](user-guide.md)
+- [Troubleshooting Guide](troubleshooting-guide.md)
 
 ## Audience
 
 This documentation is intended for 
 
 - IT Adminitrators
-
 - Security Administrators
-
 - Technical supports teams
-
 - General Users
